@@ -1,1 +1,3 @@
-# Spotify_Clone
+# Spotify-clone
+
+deployed link - https://damnanuj.github.io/Spotify-clone/
